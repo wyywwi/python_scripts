@@ -11,3 +11,11 @@ The answer is: using scripts!
 - None(now)
 - trackscripts.py
 
+- apitest.py
+
+- photo_rename_by_exif.py
+
+- randomwaifu.py
+
+- tobase64.py
+
