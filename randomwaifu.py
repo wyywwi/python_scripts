@@ -1,6 +1,5 @@
 import requests
 import random
-import json
 
 rand_num = int(random.random()*10**5)
 

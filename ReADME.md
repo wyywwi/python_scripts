@@ -21,3 +21,5 @@ The answer is: using scripts!
 
 - randompoem.py
 
+- githubavatar.py
+
